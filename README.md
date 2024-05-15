@@ -1,2 +1,3 @@
 # Subcategory-Image-Classifier
 The task's focus on classifying images into specific subcategories within a larger category, capturing the essence of fine-grained image classification.
+Subcategory image classifier is a task in computer vision where the goal is to classify images into subcategories within a larger category. For example, classifying different species of birds or different types of flowers. This task is considered to be fine-grained because it requires the model to distinguish between subtle differences in visual appearance and patterns, making it more challenging than regular image classification tasks.
